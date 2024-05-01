@@ -7,7 +7,7 @@ Hey! 👋 I'm Maria, a data nerd with a Computer Science degree. I love diving i
 
 - **Name:** Maria
 - **Location:** PH
-- **Occupation:** Data Enthusiast / Technical Support / Digital Illustrator
+- **Occupation:** Data Enthusiast / Helpdesk / Digital Illustrator
 - **Interests:** Data Analysis, Machine Learning, Data Visualization, Big Data, Python, R, SQL
 
 ## Connect With Me
